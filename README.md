@@ -47,21 +47,21 @@
 
 <td align="center">
 <a href="https://yourproject2.com">
-<img src="https://i.pinimg.com/736x/f0/db/6c/f0db6ca47cf42ac8c1373db365684090.jpg" width="220">
+<img src="./assetsFile/iknowtechworld.png" width="220">
 <br><strong>POS Pharmacy</strong>
 </a>
 </td>
 
 <td align="center">
 <a href="https://yourproject2.com">
-<img src="https://i.pinimg.com/736x/f0/db/6c/f0db6ca47cf42ac8c1373db365684090.jpg" width="220">
+<img src="./assetsFile/storypilot.png" width="220">
 <br><strong>POS Pharmacy</strong>
 </a>
 </td>
 
 <td align="center">
 <a href="https://yourproject3.com">
-<img src="https://i.pinimg.com/736x/92/da/8c/92da8c5004c206de2706dde5657a66b7.jpg" width="220">
+<img src="./assetsFile/rainguard.png" width="220">
 <br><strong>StoryPilot AI</strong>
 </a>
 </td>
