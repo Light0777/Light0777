@@ -39,25 +39,25 @@
 <table>
 <tr>
 <td align="center">
-<a href="https://yourproject.com">
+<a href="https://newaitoollist.vercel.app/">
 <img src="./assetsFile/newaitoollist.png" width="220">
 </a>
 </td>
 
 <td align="center">
-<a href="https://yourproject2.com">
+<a href="https://www.iknowtechworld.online/">
 <img src="./assetsFile/iknowtechworld.png" width="220">
 </a>
 </td>
 
 <td align="center">
-<a href="https://yourproject2.com">
+<a href="https://story-pilot-ai.vercel.app/">
 <img src="./assetsFile/storypilot.png" width="220">
 </a>
 </td>
 
 <td align="center">
-<a href="https://yourproject3.com">
+<a href="https://rain-guard.vercel.app/">
 <img src="./assetsFile/rainguard.png" width="220">
 </a>
 </td>
