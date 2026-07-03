@@ -34,7 +34,7 @@
 
 #
 
-<h2>🚀 Latest Projects</h2>
+<h2>Latest Projects</h2>
 
 <table>
 <tr>
