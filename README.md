@@ -40,7 +40,7 @@
 <tr>
 <td align="center">
 <a href="https://yourproject.com">
-<img src="https://i.pinimg.com/1200x/47/e8/80/47e8800cdba6d878aa98de9ea64231e2.jpg" width="220">
+<img src="./assetsFile/newaitoollist.png" width="220">
 <br><strong>New AI Tool List</strong>
 </a>
 </td>
