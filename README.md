@@ -41,28 +41,24 @@
 <td align="center">
 <a href="https://yourproject.com">
 <img src="./assetsFile/newaitoollist.png" width="220">
-<br><strong>New AI Tool List</strong>
 </a>
 </td>
 
 <td align="center">
 <a href="https://yourproject2.com">
 <img src="./assetsFile/iknowtechworld.png" width="220">
-<br><strong>POS Pharmacy</strong>
 </a>
 </td>
 
 <td align="center">
 <a href="https://yourproject2.com">
 <img src="./assetsFile/storypilot.png" width="220">
-<br><strong>POS Pharmacy</strong>
 </a>
 </td>
 
 <td align="center">
 <a href="https://yourproject3.com">
 <img src="./assetsFile/rainguard.png" width="220">
-<br><strong>StoryPilot AI</strong>
 </a>
 </td>
 </tr>
