@@ -34,18 +34,6 @@
 
 #
 
-
-
-
-## Latest projects
-<p align="center">
-<img src="https://i.pinimg.com/1200x/47/e8/80/47e8800cdba6d878aa98de9ea64231e2.jpg" width="170">
-<img src="https://i.pinimg.com/736x/f0/db/6c/f0db6ca47cf42ac8c1373db365684090.jpg" width="170">
-<img src="https://i.pinimg.com/736x/92/da/8c/92da8c5004c206de2706dde5657a66b7.jpg" width="170">
-<img src="https://i.pinimg.com/736x/fc/5b/e8/fc5be89d6a9da8f0956658a6ed494057.jpg" width="170">
-</p>
-
-
 <h2>🚀 Latest Projects</h2>
 
 <table>
@@ -54,6 +42,13 @@
 <a href="https://yourproject.com">
 <img src="https://i.pinimg.com/1200x/47/e8/80/47e8800cdba6d878aa98de9ea64231e2.jpg" width="220">
 <br><strong>New AI Tool List</strong>
+</a>
+</td>
+
+<td align="center">
+<a href="https://yourproject2.com">
+<img src="https://i.pinimg.com/736x/f0/db/6c/f0db6ca47cf42ac8c1373db365684090.jpg" width="220">
+<br><strong>POS Pharmacy</strong>
 </a>
 </td>
 
