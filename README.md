@@ -4,7 +4,7 @@
 💻 I use GitHub to build and experiment with dev tools, automation, and AI-related projects.
 
 <p align="left">
-      <a href="https://x.com/bikykumarmanjhi">
+      <a href="https://x.com/bickyykumar">
          <img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/x-follow-badge.svg"/></a>
       <a href="https://www.linkedin.com/in/bicky-kumar-10672941a/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
